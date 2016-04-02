@@ -1,0 +1,26 @@
+/* some basic styling */
+body {
+	font-family: Georgia, serif;
+}
+
+header {
+	text-align: center;
+	font-size: 36px;
+	margin: 25px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+footer {
+	font-size: 10px;
+	text-align: center;
+	margin: 25px;
+}
+
+/* your turn! */
+img:nth-child(-n+3) {
+	border: 10px solid yellow;
+}
