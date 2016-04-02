@@ -21,6 +21,7 @@ footer {
 }
 
 /* your turn! */
-img:nth-child(-n+3) {
+/* this is what we will edit to practice CATS */
+/*{
 	border: 10px solid yellow;
-}
+}*/
