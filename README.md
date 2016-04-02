@@ -1,4 +1,4 @@
-# cssCats
+# CSS CATS
 by Frances Jurek and Robyn Moscowitz
 
 # What are CSS CATS?
@@ -16,7 +16,7 @@ There are a few options for accessing this code so that you can use it. We'll st
 
 1. Download the zip file
   * At https://github.com/fj1/cssCats look to the right for a button called "Download Zip".
-  * Click this button, and save to a convenient location.
+  * Click this button, and save to a convenient location on your computer.
     * Mac: click on the downloaded zip to install.
     * Windows: right-click and WinZip to install.
 
@@ -37,12 +37,12 @@ Again, we have options! We'll start with the least difficult option first:
 
 # References and Resources
 We recommend the following online resources for additional learning and reference:
-  * css-tricks.com
-  * cssspecificity.com
-  * specificity.keegan.st
+  * <css-tricks.com>
+  * <cssspecificity.com>
+  * <specificity.keegan.st>
 
 We recommend the following tools for editing and inspecting CSS:
-  * codepen.io/ is a sandbox for experimenting with CSS, HTML, Javascript, and learning from other users’ creations
-  * developer.chrome.com/devtools
-  * getfirebug.com 
+  * <codepen.io> is a sandbox for experimenting with CSS, HTML, Javascript, and learning from other users’ creations
+  * <developer.chrome.com/devtools>
+  * <getfirebug.com>
 
