@@ -29,7 +29,7 @@ Again, we have options! We'll start with the least difficult option first:
 1. Drag the html file into an open browser.
   * Have a new tab open with your favorite browser.
   * Click and drag the CATS.html file into the open browser.
-  * Let go, and voilà! There's the page.
+  * Let go, and voila! There's the page.
   * To view your changes to CATS.html or style.css, refresh the browser page.
 
 2. I already know to serve webpages:
@@ -37,12 +37,12 @@ Again, we have options! We'll start with the least difficult option first:
 
 # References and Resources
 We recommend the following online resources for additional learning and reference:
-  * <css-tricks.com>
-  * <cssspecificity.com>
-  * <specificity.keegan.st>
+  * [CSS-Tricks](css-tricks.com)
+  * [cssspecificity.com](cssspecificity.com)
+  * [specificity.keegan.st](specificity.keegan.st)
 
 We recommend the following tools for editing and inspecting CSS:
-  * <codepen.io> is a sandbox for experimenting with CSS, HTML, Javascript, and learning from other users’ creations
-  * <developer.chrome.com/devtools>
-  * <getfirebug.com>
+  * [codepen.io](codepen.io) is a sandbox for experimenting with CSS, HTML, Javascript, and learning from other users’ creations
+  * [Chrome DevTools](developer.chrome.com/devtools)
+  * [getfirebug.com](getfirebug.com)
 
