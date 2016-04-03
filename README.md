@@ -20,8 +20,11 @@ There are a few options for accessing this code so that you can use it. We'll st
     * Mac: click on the downloaded zip to install.
     * Windows: right-click and WinZip to install.
 
-2. Git clone
-	* TODO
+2. Command Line + Git
+  * If you have some knowledge of Command Line and have Git installed, you can follow these steps:
+	* cd to a desired folder
+  * > git clone https://github.com/fj1/cssCats.git
+
 
 # How do I see the webpage?
 Again, we have options! We'll start with the least difficult option first:
