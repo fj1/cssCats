@@ -9,7 +9,7 @@ We're glad you asked! They are
 * S - Specificity
 
 # What's this all about?
-Have you struggled with styling, targeting or aligning HTML elements? CATS to the rescue! CATS (child selectors, alignment, tags, and specificity) will demystify basic concepts of CSS and allow you to painlessly apply styles to HTML elements. With live coding demonstrations, interactive exercises, and the help of ubiquitous internet felines, CATS will let you apply CSS with confidence!
+Have you struggled with styling, targeting or aligning HTML elements? CATS to the rescue! CATS (child selectors, alignment, tags, and specificity) will demystify basic concepts of CSS and allow you to painlessly apply styles to HTML elements. CATS will let you apply CSS with confidence!
 
 # How do I get this code?
 There are a few options for accessing this code so that you can use it. We'll start with the least difficult option.
